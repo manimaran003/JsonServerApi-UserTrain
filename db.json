@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "id": "db3e0c9c-2371-421a-a9ef-fbc7a75993fe",
+      "from": "tanjovore",
+      "to": "nammakal",
+      "time": "2:00",
+      "arrival": "5:00",
+      "passengerName": "manimaran",
+      "passengerAge": "66",
+      "trainName": "Mumbai Express"
+    }
+  ]
+}
